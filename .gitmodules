@@ -1,0 +1,54 @@
+[submodule "music-midi/khinside-pymidi"]
+	path = music-midi/khinside-pymidi
+	url = https://github.com/7not-nico/khinside-pymidi.git
+[submodule "music-midi/v2midi-zig"]
+	path = music-midi/v2midi-zig
+	url = https://github.com/7not-nico/v2midi-zig.git
+[submodule "music-midi/zigmidi-player"]
+	path = music-midi/zigmidi-player
+	url = https://github.com/7not-nico/zigmidi-player.git
+[submodule "pdf-tools/pdf-tools"]
+	path = pdf-tools/pdf-tools
+	url = https://github.com/7not-nico/pdf-tools.git
+[submodule "pdf-tools/rubypdf-tools"]
+	path = pdf-tools/rubypdf-tools
+	url = https://github.com/7not-nico/rubypdf-tools.git
+[submodule "pdf-tools/pdf-searcher"]
+	path = pdf-tools/pdf-searcher
+	url = https://github.com/7not-nico/pdf-searcher.git
+[submodule "pdf-tools/site2pdf"]
+	path = pdf-tools/site2pdf
+	url = https://github.com/7not-nico/site2pdf.git
+[submodule "pdf-tools/web2pdf-rb"]
+	path = pdf-tools/web2pdf-rb
+	url = https://github.com/7not-nico/web2pdf-rb.git
+[submodule "pdf-tools/ruby-epub"]
+	path = pdf-tools/ruby-epub
+	url = https://github.com/7not-nico/ruby-epub.git
+[submodule "doom/BrutalDoomPlatinum"]
+	path = doom/BrutalDoomPlatinum
+	url = https://github.com/7not-nico/BrutalDoomPlatinum.git
+[submodule "cli/mathpy-cli"]
+	path = cli/mathpy-cli
+	url = https://github.com/7not-nico/mathpy-cli.git
+[submodule "cli/ink-napoleon-cli"]
+	path = cli/ink-napoleon-cli
+	url = https://github.com/7not-nico/ink-napoleon-cli.git
+[submodule "cli/Scripts"]
+	path = cli/Scripts
+	url = https://github.com/7not-nico/Scripts.git
+[submodule "cli/shell-bench-research"]
+	path = cli/shell-bench-research
+	url = https://github.com/7not-nico/shell-bench-research.git
+[submodule "creative/napoleons-campaign"]
+	path = creative/napoleons-campaign
+	url = https://github.com/7not-nico/napoleons-campaign.git
+[submodule "meta/_atelier"]
+	path = meta/_atelier
+	url = https://github.com/7not-nico/_atelier.git
+[submodule "meta/stale-assembler"]
+	path = meta/stale-assembler
+	url = https://github.com/7not-nico/stale-assembler.git
+[submodule "meta/skills-introduction-to-github"]
+	path = meta/skills-introduction-to-github
+	url = https://github.com/7not-nico/skills-introduction-to-github.git
