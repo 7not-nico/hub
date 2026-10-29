@@ -5,6 +5,14 @@ Clone with `--recurse-submodules` to pull everything, or browse folders
 and open submodules individually. Private repos and empty upstreams are
 links, not submodules.
 
+## Live sites
+
+| Site | URL |
+|---|---|
+| Profile portal | https://7not-nico.github.io/ |
+| Shell benchmarks | https://7not-nico.github.io/shell-bench-research/ |
+| LLM investigations | https://7not-nico.github.io/llm-investigations-site/ |
+
 ## Domains
 
 - [music-midi](music-midi/) — MIDI tools (Python, Zig)
@@ -13,6 +21,7 @@ links, not submodules.
 - [cli](cli/) — CLI tools and scripts
 - [creative](creative/) — games and creative projects
 - [meta](meta/) — workspace, history, learning
+- [research](research/) — investigations and studies
 
 ## Links (not submodules)
 
@@ -26,3 +35,4 @@ links, not submodules.
 
 - [llm-investigations](https://github.com/7not-nico/llm-investigations) — four LLM studies (item omission, operator meta-audit, semantic weight, specification gotcha)
   - Pages: https://7not-nico.github.io/llm-investigations-site/
+EOF
