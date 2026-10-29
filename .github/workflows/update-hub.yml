@@ -1,0 +1,30 @@
+name: Update Hub
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update all submodules to latest
+        run: |
+          git submodule update --remote --recursive
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No submodule updates"
+          else
+            git config user.name 7not-nico
+            git config user.email 7not-nico@users.noreply.github.com
+            git commit -m "ci: update submodules"
+            git push
+          fi

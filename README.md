@@ -21,3 +21,8 @@ links, not submodules.
 - [cardgame-love](https://github.com/7not-nico/cardgame-love) — private
 - [books](https://github.com/7not-nico/books) — private
 - [it-ops-wiki](https://github.com/7not-nico/it-ops-wiki) — private
+
+## investigations
+
+- [llm-investigations](https://github.com/7not-nico/llm-investigations) — four LLM studies (item omission, operator meta-audit, semantic weight, specification gotcha)
+  - Pages: https://7not-nico.github.io/llm-investigations-site/

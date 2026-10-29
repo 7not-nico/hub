@@ -52,3 +52,6 @@
 [submodule "meta/skills-introduction-to-github"]
 	path = meta/skills-introduction-to-github
 	url = https://github.com/7not-nico/skills-introduction-to-github.git
+[submodule "investigations/llm-investigations"]
+	path = investigations/llm-investigations
+	url = https://github.com/7not-nico/llm-investigations.git
