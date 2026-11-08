@@ -35,4 +35,8 @@ links, not submodules.
 
 - [llm-investigations](https://github.com/7not-nico/llm-investigations) — four LLM studies (item omission, operator meta-audit, semantic weight, specification gotcha)
   - Pages: https://7not-nico.github.io/llm-investigations-site/
+
+## research
+
+- [vte-terminal-gauge](https://github.com/7not-nico/vte-terminal-gauge) — vtebench gauge of terminal emulators (VTE-based and others)
 EOF

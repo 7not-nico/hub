@@ -55,3 +55,6 @@
 [submodule "investigations/llm-investigations"]
 	path = investigations/llm-investigations
 	url = https://github.com/7not-nico/llm-investigations.git
+[submodule "research/vte-terminal-gauge"]
+	path = research/vte-terminal-gauge
+	url = https://github.com/7not-nico/vte-terminal-gauge.git
